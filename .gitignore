@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+env/
+.venv/
+Mouse/        # if your virtual environment is named Mouse
+Lib/
+Scripts/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE configs
+.vscode/
+.idea/
+
+# Build and logs
+build/
+dist/
+*.log
